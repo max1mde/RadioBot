@@ -1,5 +1,5 @@
 # RadioBot
-A simple discord radio streaming bot (userbot)
+A simple Discord radio streaming bot
 
 > **Important**
 > This bot is against the Discord TOS and only for educational use
