@@ -8,11 +8,13 @@ A simple Discord radio streaming bot
 
 Replace the token, channel id and the stream url (optional)
 
+(Volume 0-100)
 ```json
 {
   "token" : "YOUR_TOKEN",
   "channelID" : "YOUR_CHANNEL_ID",
-  "streamURL" : "http://stream.laut.fm/80er"
+  "streamURL" : "http://stream.laut.fm/80er",
+  "volume" : 10
 }
 ```
 
