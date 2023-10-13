@@ -25,3 +25,7 @@ Replace the token, channel id and the stream url (optional)
 
 > **Note**  
 > You need to invite the bot to your server first
+
+
+If you have problems with the installation of the libraries or when running the bot, make sure you are using an up to date nodejs version like v19.x
+You also maybe need to run `sudo apt-get install ffmpeg` separately
