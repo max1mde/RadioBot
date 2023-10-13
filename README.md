@@ -1,6 +1,9 @@
 # RadioBot
 A simple discord radio streaming bot (userbot)
 
+> **Important**
+> This bot is against the Discord TOS and only for educational use
+
 # Installation
 
 Replace the token, channel id and the stream url (optional)
