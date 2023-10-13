@@ -43,7 +43,7 @@ function createRadioStream(url, player) {
         inputType: DjsVoice.StreamType.Arbitrary,
         inlineVolume: true,
     });
-    resource.volume.setVolume(0.5);
+    resource.volume.setVolume((config.volume / 100).toFixed(2));
     player.play(resource);
 }
 

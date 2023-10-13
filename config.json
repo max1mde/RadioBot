@@ -1,5 +1,6 @@
 {
-  "token" : "YourUserBotToken",
+  "token" : "YOUR_BOT_TOKEN",
   "channelID" : "888394836930093149",
-  "streamURL" : "http://stream.laut.fm/80er"
+  "streamURL" : "http://stream.laut.fm/80er",
+  "volume" : 10
 }
