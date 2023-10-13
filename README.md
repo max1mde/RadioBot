@@ -18,11 +18,10 @@ Replace the token, channel id and the stream url (optional)
 }
 ```
 
+1. Install nodejs & npm
+2. Go into the bots folder
+3. `npm install`
+4. `node index.js`
+
 > **Note**  
 > You need to invite the bot to your server first
-
-
-- Install nodejs & npm
-- Go into the bots folder
-- `npm install`
-- `node index.js`
