@@ -17,7 +17,7 @@ Replace the token, channel id and the stream url (optional)
   "volume" : 10
 }
 ```
-
+[How to get different stream urls?](https://laut.fm/genres)
 [How to get a Discord account token?](https://linuxhint.com/get-discord-token/)
 
 1. Install nodejs & npm
