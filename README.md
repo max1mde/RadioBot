@@ -1,8 +1,8 @@
 # RadioBot
-A simple Discord radio streaming bot
+A simple Discord radio streaming userbot
 
 > **Important**
-> This bot is against the Discord TOS and only for educational use
+> Userbots are against the Discord TOS! This project is only for educational use
 
 # Installation
 
@@ -17,6 +17,8 @@ Replace the token, channel id and the stream url (optional)
   "volume" : 10
 }
 ```
+
+[How to get a Discord account token?](https://linuxhint.com/get-discord-token/)
 
 1. Install nodejs & npm
 2. Go into the bots folder
