@@ -2,7 +2,7 @@
 A simple Discord radio streaming userbot
 
 > [!CAUTION]
-> Userbots are against the Discord TOS! This project is only for educational use
+> **Userbots** are against the Discord TOS! This project is only for educational use
 
 # Installation
 
