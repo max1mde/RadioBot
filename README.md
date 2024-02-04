@@ -25,7 +25,7 @@ Replace the token, channel id and the stream url (optional)
 3. `npm install`
 4. `node index.js`
 
-> **Note**  
+> [!NOTE]  
 > You need to invite the account to your server first 
 > Also check for server permissions before starting the bot
 
